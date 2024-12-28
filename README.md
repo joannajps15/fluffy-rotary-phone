@@ -1,1 +1,4 @@
-Webpages portraying analysis of the Jordan water crisis using various HTML and CSS tags
+:ocean: Jordan Water Crisis Website
+
+Multi-paged website developed with HTML and CSS 
+This site uses HTML basics to create a comprehensive site on the water crisis in Jordan
